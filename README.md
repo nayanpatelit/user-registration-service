@@ -15,7 +15,7 @@ curl -X 'POST' \
 
 # Steps to run the service on local:
  1. Checkout the code from
-   https://github.com/nayanpatelit/user-registration-service
+  https://github.com/nayanpatelit/user-registration-service/tree/master
 
  2. Go to the project root folder
  3. Maven build ( Make sure Java 8 or 11 & Maven is installed)
